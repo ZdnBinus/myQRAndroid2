@@ -1,0 +1,2 @@
+2019-10-10 16:12:37 +0000: ===== BitBar =====
+2019-10-10 16:12:37 +0000: Error: BitBar can’t be updated when it’s running from a read-only volume like a disk image or an optical drive. Move BitBar to your Applications folder, relaunch it from there, and try again. (null) (URL (null))

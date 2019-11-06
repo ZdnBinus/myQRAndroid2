@@ -1,0 +1,227 @@
+y$2mainactivity$3registeractivityregisteractivity$1fragmentbookfragmenthomefragmenthomefragment$1profillefragment!homefragment$layoutmanagertyper$id	r$anim	r$attr	r$bool	r$menu
+r$color
+r$dimen
+r$styler$layoutr$mipmapr$string	r$integer
+r$animator
+r$drawablebuildconfigr$styleabler$interpolator
+androidarchcorer	lifecyclerlivedatacorerr	viewmodelr
+supportv4rr 2r$id	r$attr	r$id 2
+r$color
+r$dimen
+r$styler$layoutr$string	r$dimen 2	r$integer
+r$drawabler$integer 2r$styleabler$drawable 2r$styleable 2v7cardviewr	r$attr
+r$color
+r$dimen
+r$styler$styleable	appcompatrr$id	r$anim	r$attr	r$bool
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleable	viewpagerrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleablerecyclerviewrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleableprintr	compatrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleable	coreuirr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawable
+r$string 2r$integer 2r$styleabler$drawable 2	designrr$id	r$anim	r$attr	r$bool
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$animator
+r$drawabler$styleabler$interpolator	loaderrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleablefragmentrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleablegraphicsdrawablerr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleable	coreutilsrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleable
+constraintrr$id	r$attrr$styleable
+customviewrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleable
+transitionrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleablemediacompatrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleabledocumentfilerdrawerlayoutrr$id	r$attr	r$id 2
+r$color
+r$dimen
+r$styler$layoutr$string	r$dimen 2	r$integer	r$style 2
+r$drawabler$styleableinterpolatorrcursoradapterrcoordinatorlayoutrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleableslidingpanelayoutrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleableswiperefreshlayoutrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleableasynclayoutinflaterrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleablelocalbroadcastmanagerrandroidxversionedparcelabler
+symbolsdebugrapk_listdebugmainapklistpersistencedebugapk-listlint_jar	globalpreparelintjar
+transforms
+dexbuilderdebug0com
+examplezaidancemyqrr
+adaptercustomadaptercustomadapter$viewholdercustomadapter$viewholder$1activityhomeactivitymainactivityhomeactivity$1mainactivity$1mainactivity$2mainactivity$3registeractivityregisteractivity$1fragmentbookfragmenthomefragmenthomefragment$1profillefragment!homefragment$layoutmanagertyper$id	r$anim	r$attr	r$bool	r$menu
+r$color
+r$dimen
+r$styler$layoutr$mipmapr$string	r$integer
+r$animator
+r$drawablebuildconfigr$styleabler$interpolator
+androidarchcorer	lifecyclerlivedatacorerr	viewmodelr
+supportv4rr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleablev7cardviewr	r$attr
+r$color
+r$dimen
+r$styler$styleable	appcompatrr$id	r$anim	r$attr	r$bool
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleable	viewpagerrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleablerecyclerviewrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleableprintr	compatrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleable	coreuirr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleable	designrr$id	r$anim	r$attr	r$bool
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$animator
+r$drawabler$styleabler$interpolator	loaderrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleablefragmentrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleablegraphicsdrawablerr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleable	coreutilsrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleable
+constraintrr$id	r$attrr$styleable
+customviewrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleable
+transitionrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleablemediacompatrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleabledocumentfilerdrawerlayoutrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleableinterpolatorrcursoradapterrcoordinatorlayoutrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleableslidingpanelayoutrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleableswiperefreshlayoutrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleableasynclayoutinflaterrr$id	r$attr
+r$color
+r$dimen
+r$styler$layoutr$string	r$integer
+r$drawabler$styleablelocalbroadcastmanagerrandroidxversionedparcelabler__content__incrementalpackagedebugtmpdebug	zip-cache4+cgbmxykh1mhg_ie9wkschsuje=a0hxxy0hdgkcygkvgrpxx20m7ga=dex-renamer-statemergedebugassets	mergermergedebugshaders	mergerdebug-mergejavares	zip-cache0iloi7lh1wswn0wbwd4kpvilh5q=2ziv5qsglcxt8qk4dmifitkgzm8=5tadr182vtmvaam9ah1fxssxekk=661yei4eqnkvmnssrkh6owereyw=6i9ro8dsh6ffdfc2mt7wsucj2z8=8_4qv9+tbea+hg5twuujznbukjq=8cvodpotftusjxa8p11tsqmirfa=9eycco5c+gybqyooifrlviaj3fc=a3kf1lk7k7zdhxhfgeks1zbw9n8=ak79pupmmlofvmi2porcfuiwrec=ashbbjoksa8wmih2epw2xgjmo7c=bc2zvqrsq5jp2g+mc+m_saz64ds=bpm1ypzf8t46ovusypbotktu17k=emwbaruavr3o5jxnltdzzwdjba8=eqs1a+jy_y4xbt2jsoaqfcbn3jq=f2qzhxprnvui+3hgo4mro7gvvdy=fiuzib7hjk7m3koqs9k12xlhp9u=gemncqi6xseoxg0pwj67bnu6fey=i8bnplcdidwfpf28p7ce17fkf08=ijbrz2u8bdkgs_kifc6gyr0imlg=m8n4xdqsboe1oxh1t_mtsvgdwsg=mrqmk81neaih61k0mbpro7s2eje=nq2+innx9smzfanr48h02l7qr5a=odg9wv9s48sy76fuqdt2iyj6mac=oxujqlch6uj1iq44_khrbmtvatq=pv3ryb3nns6+p03kx4rizkh_jpq=q+1y9tgkcx7xy4hec5x+v9uj6iu=qqanao5gm42ldiz2hp7fdynl0aw=qqnjpnrs1hi7hy_0ibgc6tzh4ao=szahf+ldpybq6ctbvhv4uv0sr48=t2ifell3jojnq424n8rtuvrink0=tji_n1dlitl61i558p4yats6v4q=tjkgzaewepcszlxbjwkkykysrto=twte0fyr7gn_u6kt66fkaricizk=v+v1gfnb15bzpyxycwokcq9oaz0=vi0kyx0egpipguxpdy0rbhvn6ji=vzn8vexr+de_xasxnvdqfvxecy4=znltfj7n1c6kxg45oin7d5rzfiu=merge-statemergedebugresources	merged	mergerstrippedcompile-file-mapdebug-mergenativelibs	zip-cache0iloi7lh1wswn0wbwd4kpvilh5q=2ziv5qsglcxt8qk4dmifitkgzm8=5tadr182vtmvaam9ah1fxssxekk=661yei4eqnkvmnssrkh6owereyw=6i9ro8dsh6ffdfc2mt7wsucj2z8=8_4qv9+tbea+hg5twuujznbukjq=8cvodpotftusjxa8p11tsqmirfa=9eycco5c+gybqyooifrlviaj3fc=a3kf1lk7k7zdhxhfgeks1zbw9n8=ak79pupmmlofvmi2porcfuiwrec=ashbbjoksa8wmih2epw2xgjmo7c=bc2zvqrsq5jp2g+mc+m_saz64ds=bpm1ypzf8t46ovusypbotktu17k=emwbaruavr3o5jxnltdzzwdjba8=eqs1a+jy_y4xbt2jsoaqfcbn3jq=f2qzhxprnvui+3hgo4mro7gvvdy=fiuzib7hjk7m3koqs9k12xlhp9u=gemncqi6xseoxg0pwj67bnu6fey=i8bnplcdidwfpf28p7ce17fkf08=ijbrz2u8bdkgs_kifc6gyr0imlg=m8n4xdqsboe1oxh1t_mtsvgdwsg=mrqmk81neaih61k0mbpro7s2eje=nq2+innx9smzfanr48h02l7qr5a=odg9wv9s48sy76fuqdt2iyj6mac=oxujqlch6uj1iq44_khrbmtvatq=pv3ryb3nns6+p03kx4rizkh_jpq=q+1y9tgkcx7xy4hec5x+v9uj6iu=qqanao5gm42ldiz2hp7fdynl0aw=qqnjpnrs1hi7hy_0ibgc6tzh4ao=szahf+ldpybq6ctbvhv4uv0sr48=t2ifell3jojnq424n8rtuvrink0=tji_n1dlitl61i558p4yats6v4q=tjkgzaewepcszlxbjwkkykysrto=twte0fyr7gn_u6kt66fkaricizk=v+v1gfnb15bzpyxycwokcq9oaz0=vi0kyx0egpipguxpdy0rbhvn6ji=vzn8vexr+de_xasxnvdqfvxecy4=znltfj7n1c6kxg45oin7d5rzfiu=merge-stateprocessdebugresourcesmergedebugjnilibfolders	mergermerged_assetsdebugoutprocessed_resdebugprocessdebugresourcesout	outputresources-debugshader_assetsdebugcompiledebugshadersoutmerged_shadersdebugoutsigning_configdebugoutsigning-configbundle_manifestdebugprocessdebugmanifestbundle-manifest	outputandroidmanifestmerged_java_resdebugoutmerged_jni_libsdebugoutlint_publish_jar	globalpreparelintjarforpublishmerged_manifestsdebug	outputandroidmanifestdebugandroidtest	outputandroidmanifestmerged_native_libsdebugoutinstant_app_manifestdebug	outputandroidmanifeststripped_native_libsdebugoutcheck_manifest_resultdebugcheckdebugmanifestoutduplicate_classes_checkdebugoutvalidate_signing_configdebugoutannotation_processor_listdebugannotationprocessorsmanifest_merge_blame_filedebug%"manifest-merger-blame-debug-reportdebugandroidtest1.manifest-merger-blame-debug-androidtest-reportmetadata_feature_manifestdebugprocessdebugmanifestmetadata-feature	outputcompatible_screen_manifestdebug'$createdebugcompatiblescreenmanifestsout	output
+values-v18
+values-v17ai5rbgv+5epfpskpozgymo3hx3y=8iqr2cekoas7kpym4cgxzxs_dvo=	values-ka	values-be
+values-v16	values-bg	values-sw	values-sv	values-si
+values-v25	values-fi	values-de	values-afvalues-hdpi-v4	values-skvalues-xlarge-v4	values-it	values-az	values-favalues-night-v8	values-sl	values-vi	values-amvalues-en-rin	values-sq	values	values-et	values-ja	values-fr	values-euvalues-large-v4	values-ru	values-or	values-nlvalues-es-rus	values-ro	values-el	values-iw	values-in	values-bs	values-isvalues-ldltr-v21	values-mrvalues-en-rgb	values-my	values-ms	values-zu	values-ml	values-pa	values-mnvalues-watch-v20	values-hy	values-nevalues-watch-v21	values-huvalues-b+sr+latn	values-as	values-thvalues-zh-rtw	values-ta	values-uzvalues-pt-rptvalues-h720dp-v13	values-ur	values-da	values-hr	values-ltvalues-en-rxc	values-lvvalues-fr-rca	values-uk	values-lovalues-en-rcavalues-sw600dp-v13	values-hi	values-mk	values-csvalues-land
+values-v28values-pt-rbrvalues-zh-rhk	values-pl
+values-v24
+values-v23
+values-v26	values-gu	values-pt	values-ca
+values-v22
+values-v21	values-sr	values-tr	values-gl	values-kyvalues-port	values-tlvalues-zh-rcn	values-nb	values-kn	values-km	values-es	values-ko	values-bn	values-ar	values-kk	values-tevalues-en-rau	values	values-af	values-am	values-ar	values-as	values-az	values-be	values-bg	values-bn	values-bs	values-ca	values-cs	values-da	values-de	values-el	values-es	values-et	values-eu	values-fa	values-fi	values-fr	values-gl	values-gu	values-hi	values-hr	values-hu	values-hy	values-in	values-is	values-it	values-iw	values-ja	values-ka	values-kk	values-km	values-kn	values-ko	values-ky	values-lo	values-lt	values-lv	values-mk	values-ml	values-mn	values-mr	values-ms	values-my	values-nb	values-ne	values-nl	values-or	values-pa	values-pl	values-pt	values-ro	values-ru	values-si	values-sk	values-sl	values-sq	values-sr	values-sv	values-sw	values-ta	values-te	values-th	values-tl	values-tr	values-uk	values-ur	values-uz	values-vi	values-zu
+values-v16
+values-v17
+values-v18
+values-v21
+values-v22
+values-v23
+values-v24
+values-v25
+values-v26
+values-v28values-landvalues-portvalues-en-rauvalues-en-rcavalues-en-rgbvalues-en-rinvalues-en-rxcvalues-es-rusvalues-fr-rcavalues-pt-rbrvalues-pt-rptvalues-zh-rcnvalues-zh-rhkvalues-zh-rtwvalues-hdpi-v4values-large-v4values-night-v8values-b+sr+latnvalues-ldltr-v21values-watch-v20values-watch-v21values-xlarge-v4values-h720dp-v13values-sw600dp-v13      menu_toolbar2. myqr android.8ebc2514cfnetworkdownload_wiyut4cfnetworkdownload_xrmou7r
+toolbarr$interpolator
+r$style	r$attrr$mipmap	r$anim
+r$drawable	r$menu	r$bool	r$integerr$layout
+r$animator
+r$colorr$idr
+r$dimenr$stringr$styleable
+ic_historyassetwizardsettingsandroideditorsmenu_toolbaric_white_notific_qrcfnetworkdownload_e4batmcom.apple.safariric_settingsactivity_occprofilleoccprofilleoccprofilleadaptercom.apple.previewcom.apple.texteditcfnetworkdownload_9ecbnbcfnetworkdownload_w7lebncustomadapter2customadapter2
+list_view2
+list_view2
+list_view2r$idr$stringr$styleabler	r$integer
+r$color
+r$dimenr$layout	r$anim	r$bool
+r$drawabler$interpolatorr$mipmap	r$menu
+r$style	r$attr
+r$animatorr$styleabler$string
+r$dimenrr$id
+r$color
+r$animatorr$layout	r$integer	r$bool	r$menu
+r$drawable	r$animr$mipmap	r$attr
+r$styler$interpolatorprofilleoccactivitycom.apple.texteditcom.apple.safaricfnetworkdownload_khe1lbcustomadapter2$viewholder$1customadapter2bookfragment$1!bookfragment$layoutmanagertypedrawable_ic_history.xmlmenu_list_view2.xmlcustomadapter2$viewholderoccprofillemenu_menu_toolbar.xmldrawable_ic_white_notif.xmlmenu_list_view.xml"layout_activity_occprofille.xmllayout_toolbar.xml drawable_ic_settings.xmldrawable_ic_qr.xml )&resources-list-for-resources-debug.ap_apk

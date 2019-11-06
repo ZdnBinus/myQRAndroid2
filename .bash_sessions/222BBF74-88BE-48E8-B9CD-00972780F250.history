@@ -1,0 +1,233 @@
+rm -Rf /Applications/Android\ Studio.app
+rm -Rf ~/Library/Preferences/AndroidStudio*
+rm -Rf ~/Library/Preferences/com.google.android.*
+rm -Rf ~/Library/Preferences/com.android.*
+rm -Rf ~/Library/Application\ Support/AndroidStudio*
+rm -Rf ~/Library/Logs/AndroidStudio*
+rm -Rf ~/Library/Caches/AndroidStudio*
+rm -Rf ~/.AndroidStudio*
+rm -Rf ~/AndroidStudioProjects
+rm -Rf ~/.gradle
+rm -Rf ~/Library/Android*
+rm -Rf ~/.emulator_console_auth_token
+rm -Rf ~/.emulator_console_auth_token
+whomi
+whoami
+sudo su
+man socket
+man accept
+man 2 accept
+gedit zidan.c
+nano zidan.c
+LS
+ls
+cd Documents
+cd ..
+sudo nano /etc/hosts
+sudo killall -HUP mDNSResponder
+sudo nano /etc/hosts
+sudo nano /private/etc/hosts
+ls
+cd Documents
+ls
+cat index.html
+/Users/zaidance/Downloads/macos/dnscrypt-proxy ; exit;
+dnscrypt-proxy-macos-*.tar.gz
+dnscrypt-proxy-macos-2.0.19 (1).tar.gz
+cd /zaidance/Unduhan/dnscrypt-proxy-macos-2.0.19 (1).tar.gz
+dnscrypt-proxy-macos-2.0.19 (1).tar
+cd /zaidance/Unduhan/dnscrypt-osx-client-master
+cd /users/unduhan/
+cd /zaidance
+cd /zaidance/
+cd /user/
+cd /Users/
+cd /Users/Users/zaidance/Downloads/dnscrypt-osx-client-master 
+cd /Users/zaidance/Downloads/dnscrypt-osx-client-master 
+ls -l
+dnscrypt-proxy and example-dnscrypt-proxy.toml.
+dnscrypt-proxy and example-dnscrypt-proxy.toml.
+cp example-dnscrypt-proxy.toml dnscrypt-proxy.toml
+sudo -s
+cd /Users/zaidance/Downloads/macos\ 2 
+ls -l
+cp example-dnscrypt-proxy.toml dnscrypt-proxy.toml
+./dnscrypt-proxy
+sudo -s
+cd /Users/zaidance/Downloads/macos\ 2 
+./dnscrypt-proxy -service install
+./dnscrypt-proxy -service install
+./dnscrypt-proxy -service start
+./dnscrypt-proxy -resolve example.com
+d
+dd
+sudo -s
+cd/Users/zaidance/Downloads/macos\ 2 
+cd /Users/zaidance/Downloads/macos\ 2 
+dnscrypt-proxy and example-dnscrypt-proxy.toml
+dnscrypt-proxy and example-dnscrypt-proxy.toml.
+cd /Users/zaidance/Downloads/macos\ 2 
+ls -l
+cp example-dnscrypt-proxy.toml dnscrypt-proxy.toml
+./dnscrypt-proxy
+cd /Users/zaidance/Downloads/dnscrypt-proxy-macos-2.0.19.tar 
+cd /Users/zaidance/Downloads/macos 
+ls-l
+ls -l
+cp example-dnscrypt-proxy.toml dnscrypt-proxy.toml
+./dnscrypt-proxy
+./dnscrypt-proxy -service install
+./dnscrypt-proxy -service install
+./dnscrypt-proxy -service start
+./dnscrypt-proxy -service stop
+./dnscrypt-proxy -service restart
+./dnscrypt-proxy -service install
+sudo ./dnscrypt-proxy
+./dnscrypt-proxy -service install
+cd /Users/zaidance/Downloads/macos 
+./dnscrypt-proxy -service install
+./dnscrypt-proxy -service start
+./dnscrypt-proxy -resolve example.com
+레이샤
+./dnscrypt-proxy -service stop
+sudo -s
+npm install -g expo-cli
+gitinit
+git init
+cd "`dirname '/private/var/folders/b6/591mp5rn7bgdbmv_95kmts4c0000gn/T/AppTranslocation/A10D3BA4-496B-44A1-9238-E9249D31D035/d/pcsx2 0.9.7 Alpha.app/Contents/Resources/script'`"; cd pcsx2; clear; ./pcsx2; exit
+cd "`dirname '/private/var/folders/b6/591mp5rn7bgdbmv_95kmts4c0000gn/T/AppTranslocation/8E54C8F7-F6CD-4D26-93C8-F5A69E106D88/d/pcsx2 0.9.7 Alpha.app/Contents/Resources/script'`"; cd pcsx2; clear; ./pcsx2; exit
+cd "`dirname '/private/var/folders/b6/591mp5rn7bgdbmv_95kmts4c0000gn/T/AppTranslocation/32C82CFE-EA9D-4359-8EB1-02DA9E7805AB/d/pcsx2 0.9.7 Alpha.app/Contents/Resources/script'`"; cd pcsx2; clear; ./pcsx2; exit
+cd "`dirname '/private/var/folders/b6/591mp5rn7bgdbmv_95kmts4c0000gn/T/AppTranslocation/7C791066-A613-4A54-9081-010AD93A9918/d/pcsx2 0.9.7 Alpha.app/Contents/Resources/script'`"; cd pcsx2; clear; ./pcsx2; exit
+cd "`dirname '/Users/zaidance/Desktop/pcsx2 0.9.7 Alpha.app/Contents/Resources/script'`"; cd pcsx2; clear; ./pcsx2; exit
+cd "`dirname '/private/var/folders/b6/591mp5rn7bgdbmv_95kmts4c0000gn/T/AppTranslocation/AFC89433-3673-4B5F-8E37-497E8D5E3B00/d/pcsx2 0.9.7 Alpha.app/Contents/Resources/script'`"; cd pcsx2; clear; ./pcsx2; exit
+winecfg
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+winecfg
+wine pcsx2.exe
+cd user/zaidance/download
+cd /user/zaidance/unduhan
+cd /user/zaidance/download
+cd /Users/zaidance/Downloads 
+wine pcsx2.exe
+cd/Users/zaidance/.wine/drive_c/Program\ Files/PCSX2\ 1.4.0 
+cd /Users/zaidance/.wine/drive_c/Program\ Files/PCSX2\ 1.4.0 
+wine pcsx2.exe
+wine pcsx2.exe
+cd /Users/zaidance/Downloads/Directx9 
+wine DXSETUP.exe
+cd /Users/zaidance/.wine/drive_c/Program\ Files/PCSX2\ 1.4.0 
+wine pcsx2.exe
+wine pcsx2.exe
+wine pcsx2.exe
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+cd /Users/zaidance/.wine/drive_c/Program\ Files/PCSX2\ 1.4.0 
+pcsx2.exe
+pcsx2.exe
+wine pcsx2.exe
+wine pcsx2.exe
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+cd /Users/zaidance/.wine/drive_c/Program\ Files/PCSX2\ 1.4.0 
+pcsx2.exe
+wine pcsx2.exe
+/Applications/Wine\ Stable.app/Contents/Resources/wine/bin/wine-preloader ; exit;
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+cd /Users/zaidance/.wine/drive_c/Program\ Files/PCSX2\ 1.4.0 
+wine pcsx2.exe
+cddefaults write com.apple.dashboard mcx-disabled -boolean YES
+defaults write com.apple.dashboard mcx-disabled -boolean YES
+killall Dock
+launchctl unload -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist
+wine pcsx2.exe
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+cd/Users/zaidance/.wine/drive_c/Program\ Files/PCSX2\ 1.4.0 
+wine pcsx2.exe
+cd /Users/zaidance/.wine/drive_c/Program\ Files/PCSX2\ 1.4.0 
+wine pcsx2.exe
+/Applications/Wine\ Stable.app/Contents/Resources/wine/bin/wine-preloader ; exit;
+/Applications/Wine\ Stable.app/Contents/Resources/wine/bin/wine-preloader ; exit;
+/Applications/Wine\ Stable.app/Contents/Resources/wine/bin/wine-preloader ; exit;
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+wine /Users/zaidance/Desktop/Need\ For\ Speed\ The\ Run.desktop 
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+winecfg
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+cd /Users/zaidance/Downloads/Need_For_Speed_The_Run/Redist/DirectX 
+DXSETUP.exe
+wine DXSETUP.exe
+cd /Users/zaidance/.wine/drive_c/Program\ Files/R.G.\ Mechanics/Need\ For\ Speed\ The\ Run 
+wine nfs.exe
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+wine /Users/zaidance/Desktop/Need\ For\ Speed\ The\ Run.exe 
+/Users/zaidance/Documents/1.\ Zaidance/1.Binus/6.\ 3+1\ Entre/app/MyApplication/gradlew ; exit;
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+cd /Users/zaidance/Desktop/Need\ for\ Speed\ -\ Most\ Wanted/
+wine nfs13.exe
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+wine /Users/zaidance/Downloads/dxwebsetup.exe 
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+wine /Users/zaidance/Downloads/winrar-x64-58b1.exe 
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+wine /Users/zaidance/Downloads/directx_Jun2010_redist_3147738122.exe 
+cd 
+/Applications/Wine\ Stable.app/Contents/Resources/wine/bin/wine-preloader ; exit;
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Users/zaidance/Applications/Wine Stable.app/Contents/Resources/start/bin:/Users/zaidance/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+wine /Users/zaidance/Desktop/speed.desktop 
+wine /Users/zaidance/Desktop/speed.exe 
+wine /Users/zaidance/.wine/drive_c/Program\ Files/WinRAR/Rar.exe 
+cd /Users/zaidance/.wine/drive_c/Program\ Files/WinRAR 
+wine rar.exe
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Users/zaidance/Applications/Wine Stable.app/Contents/Resources/start/bin:/Users/zaidance/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Users/zaidance/Applications/Wine Stable.app/Contents/Resources/start/bin:/Users/zaidance/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Users/zaidance/Applications/Wine Stable.app/Contents/Resources/start/bin:/Users/zaidance/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear
+cd /Users/zaidance/.wine/drive_c/Program\ Files\ \(x86\)/Internet\ Download\ Manager 
+wine IDMan.exe
+cd /Users/zaidance/Downloads/dnscrypt-proxy-macos-2.0.27.tar 
+cd /Users/zaidance/Downloads/dnscrypt-proxy-macos-2.0.27.tar 
+cd/Users/zaidance/Downloads/dnscrypt-proxy-macos-2.0.27.tar 
+cd /Users/zaidance/Downloads/dnscrypt-proxy-macos-2.0.27.tar 
+cd /Users/zaidance/Downloads/macos 
+ls -l
+cp example-dnscrypt-proxy.toml dnscrypt-proxy.toml
+./dnscrypt-proxy
+./dnscrypt-proxy -service install
+./dnscrypt-proxy -service start
+./dnscrypt-proxy -resolve example.com
+sudo -s
+./dnscrypt-proxy -resolve example.com
+./dnscrypt-proxy -resolve google.com
+cd /Users/zaidance/Downloads/macos 
+./dnscrypt-proxy -resolve example.com
+s
+s
+n
+/Users/zaidance/Downloads/Sinb1167.jpeg
+cd /Users/zaidance/Downloads/macos 
+s -l
+ls -l
+cp example-dnscrypt-proxy.toml dnscrypt-proxy.toml
+./dnscrypt-proxy
+./dnscrypt-proxy -resolve example.com
+./dnscrypt-proxy
+./dnscrypt-proxy
+./dnscrypt-proxy
+./dnscrypt-proxy -service install
+./dnscrypt-proxy
+./dnscrypt-proxy -service stop
+./dnscrypt-proxy -service uninstall
+./dnscrypt-proxy -service uninstall
+./dnscrypt-proxy
+./dnscrypt-proxy -service start
+./dnscrypt-proxy -service install
+./dnscrypt-proxy -service start
+sudo -s
+cd /Users/zaidance/Downloads/macos 
+./dnscrypt-proxy -service start
+./dnscrypt-proxy -service stop
+./dnscrypt-proxy -service start
+./dnscrypt-proxy -resolve example.com
+./dnscrypt-proxy -resolve service start
+./dnscrypt-proxy -service start
+./dnscrypt-proxy -service stop
+sudo -s
